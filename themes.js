@@ -167,6 +167,12 @@ const themes = {
     path: 'devui-blue.scss',
     ref: '2caac0c',
   },
+  'kobe': {
+    owner: 'Quanzhitong',
+    repo: 'juejin-markdown-theme-kobe',
+    path: 'kobe.scss',
+    ref: '4a3aded',
+  },
 };
 
 export default themes;

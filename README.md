@@ -52,7 +52,7 @@ highlight: juejin # 代码高亮主题，默认值：theme 中指定，没有则
 | [Chinese-red](https://github.com/mancuoj/juejin-markdown-theme-Chinese-red) | [Mancuoj](https://juejin.cn/user/3466105460624760) | MIT |
 | [nico](https://github.com/blllld/juejin-markdown-theme-nico) | [非思不可](https://juejin.cn/user/553809588523405) | MIT |
 | [devui-blue](https://github.com/kagol/juejin-markdown-theme-devui-blue) | [DevUI团队](https://juejin.cn/user/712139267650141) | MIT |
-
+| [kobe](https://github.com/Quanzhitong/juejin-markdown-theme-kobe) | [沙粒](https://juejin.cn/user/3702810892309358) | MIT |
 ### 代码高亮
 
 使用 `highlight` 指定主题，可以使用 [highlight.js](https://github.com/highlightjs/highlight.js) 中的所有样式：
